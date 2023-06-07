@@ -1,0 +1,10 @@
+﻿  background.cpp
+  gameloop.cpp
+  hero.cpp
+  image.cpp
+  mainscene.cpp
+  says who.cpp
+D:\为C盘减负行动\says who\says who\says who.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  vector.cpp
+  正在生成代码...
+  says who.vcxproj -> D:\为C盘减负行动\says who\x64\Debug\says who.exe
